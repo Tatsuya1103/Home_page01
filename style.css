@@ -3,7 +3,7 @@
     margin: 0;
 }
 .wrapper{
-    background: url(https://github.com/Tatsuya1103/Home_page01/blob/main/bg1.jpg?raw=true no-repeat);
+    background: url(https://raw.githubusercontent.com/Tatsuya1103/Home_page01/main/bg1.jpg);
     background-size: cover;
     height: 100vh;
 }
